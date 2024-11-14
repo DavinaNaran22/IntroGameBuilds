@@ -1,6 +1,0 @@
-*.unity3d filter=lfs diff=lfs merge=lfs -text
-*.exe filter=lfs diff=lfs merge=lfs -text
-buildv2.0/*.data filter=lfs diff=lfs merge=lfs -text
-buildv2.0/*.wasm filter=lfs diff=lfs merge=lfs -text
-buildv2.0/** filter=lfs diff=lfs merge=lfs -text
-buildv2.0/Build/buildv2.0.data filter=lfs diff=lfs merge=lfs -text
